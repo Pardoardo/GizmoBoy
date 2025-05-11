@@ -1,0 +1,33 @@
+{
+  "name": "gizmo-guy",
+  "version": "1.0.0",
+  "description": "A serious Discord bot project",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pardoardo/GizmoBoy.git"
+  },
+  "keywords": [
+    "discord",
+    "discord-bot",
+    "bot",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Pardoardo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pardoardo/GizmoBoy/issues"
+  },
+  "homepage": "https://github.com/Pardoardo/GizmoBoy#readme",
+  "dependencies": {
+    "discord.js": "^14.19.3",
+    "dotenv": "^16.5.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.26.0"
+  }
+}
